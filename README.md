@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diqing Zuo</h1>
 <h3 align="center">A Computer Engineer Senior at UIUC</h3>
 
-- 🔭  Accelerating ChatGPT-2 Inference with High-Level Synthesis
+- 🔭  I'm currently working on: Accelerating ChatGPT-2 Inference with High-Level Synthesis
 
 - 📫 How to reach me **diqingz2@illinois.edu**
 

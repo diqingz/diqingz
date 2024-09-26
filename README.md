@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diqing Zuo</h1>
-<h3 align="center">A Computer Engineer Junior at UIUC</h3>
+<h3 align="center">A Computer Engineer Senior at UIUC</h3>
 
-- 🔭 I’m currently working on [building a fruit ninja that can run on DE-10 FPGA](https://github.com/diqingz/Fruit-ninja-on-FPGA)
+- 🔭  Accelerating ChatGPT-2 Inference with High-Level Synthesis
 
 - 📫 How to reach me **diqingz2@illinois.edu**
 
